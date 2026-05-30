@@ -8,6 +8,6 @@ Produces a CSV file with location data for each photo in the library.
 ## Usage
 To use photomap, run the following command:
 ```bash
-photomap /path/to/your/photo/library
+photomap > locations.csv
 ```
 This will generate a CSV file named `locations.csv` in the current directory containing the location data for each photo in the library.
